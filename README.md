@@ -1,1 +1,1 @@
-# MineConnectAPI
+# MindConnectAPI
